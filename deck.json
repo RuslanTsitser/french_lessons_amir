@@ -1,15 +1,15 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "24095c52-6301-11f0-8a80-974b7122e85c",
-    "deck_config_uuid": "24097f48-6301-11f0-8a80-974b7122e85c",
+    "crowdanki_uuid": "b0f71af6-6305-11f0-800a-5b61c35f55ac",
+    "deck_config_uuid": "b0f72c44-6305-11f0-800a-5b61c35f55ac",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "answerAction": 0,
             "autoplay": true,
             "buryInterdayLearning": false,
-            "crowdanki_uuid": "24097f48-6301-11f0-8a80-974b7122e85c",
+            "crowdanki_uuid": "b0f72c44-6305-11f0-800a-5b61c35f55ac",
             "desiredRetention": 0.9,
             "dyn": false,
             "easyDaysPercentages": [
@@ -22,7 +22,6 @@
                 1.0
             ],
             "fsrsParams5": [],
-            "fsrsParams6": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
             "interdayLearningMix": 0,
@@ -50,7 +49,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -676,7 +675,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "У них есть книги? У них нет книг",
+                "У них есть эти (конкретные) книги? У них нет этих книг",
                 "<b><span style=\"font-weight: 400;\">Ils ont les livres? Ils n’ont pas les livres</span></b>"
             ],
             "guid": "bg=]1MuJM",
