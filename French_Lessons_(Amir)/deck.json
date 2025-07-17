@@ -1,0 +1,1419 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "24095c52-6301-11f0-8a80-974b7122e85c",
+    "deck_config_uuid": "24097f48-6301-11f0-8a80-974b7122e85c",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "24097f48-6301-11f0-8a80-974b7122e85c",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "French Lessons (Amir)",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    line-height: 1.5;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4173593725850076262,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4424639074451978083,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic+",
+            "originalId": 1752043640392,
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -5256669017635409425,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "240ebd14-6301-11f0-8a80-974b7122e85c",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3956670124095981658,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -441355080274721976,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalId": 1752081831188,
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -3092643699785448790,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Как у вас дела?",
+                "<b><span style=\"font-weight: 400;\">Commen</span><span style=\"background-color: rgb(255, 255, 0);\">t a</span><span style=\"font-weight: 400;\">llez-vous? / vou</span><span style=\"background-color: rgb(255, 255, 0);\">s a</span><span style=\"font-weight: 400;\">llez bien&nbsp;?</span></b>"
+            ],
+            "guid": "yH.1:o=U1z",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Обед</span></b>",
+                "<b><span style=\"font-weight: 400;\">Un déjeuner</span></b>"
+            ],
+            "guid": "LgsfH`2qVe",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Быстрый</span></b>",
+                "<b><span style=\"font-weight: 400;\">Rapide</span></b>"
+            ],
+            "guid": "NJ;WvARrl`",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Итак</span></b>",
+                "<b><span style=\"font-weight: 400;\">Alors</span></b>"
+            ],
+            "guid": "svjB|[5*o8",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "С",
+                "<b><span style=\"font-weight: 400;\">Avec</span></b>"
+            ],
+            "guid": "x{!e@F5/^h",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Для меня</span></b>",
+                "<b><span style=\"font-weight: 400;\">Pour moi</span></b>"
+            ],
+            "guid": "5Y}gn|pN%",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Без масла</span></b>",
+                "<b><span style=\"font-weight: 400;\">Sans beurre</span></b>"
+            ],
+            "guid": "Iq=bDKHRAP",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Напиток</span></b>",
+                "<b><span style=\"font-weight: 400;\">Boisson</span></b>"
+            ],
+            "guid": "i2[]?S&umm",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Стакан пива</span></b>",
+                "<b><span style=\"font-weight: 400;\">Un demi</span></b>"
+            ],
+            "guid": "Q&.NAJ#,fu",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Графин воды</span></b>",
+                "<b><span style=\"font-weight: 400;\">Une carafe&nbsp;</span></b><b><span style=\"font-weight: 400;\">d’eau</span></b>"
+            ],
+            "guid": "cj9k{2NDK;",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Пожалуйста (когда что-то даешь в руки, например)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Voici</span></b>"
+            ],
+            "guid": "r$$Mx8/8F",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Конюшня</span></b>",
+                "<b><span style=\"font-weight: 400;\">Bien sûr</span></b>"
+            ],
+            "guid": "bnuPB2r_0:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Пожалуйста меню (когда сам даешь кому-то)",
+                "<b><span style=\"font-weight: 400;\">Voici la carte</span></b>"
+            ],
+            "guid": "G`36#t:;Ly",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Салат с зеленью",
+                "Une salade verte"
+            ],
+            "guid": "B3vxI$}lI2",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Сендвич с ветчиной и сливочным маслом",
+                "Un sandwich jambon-beurre"
+            ],
+            "guid": "oE&NcN<!a2",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Набор для завтрака",
+                "Une formule \"petit-déjeuner\""
+            ],
+            "guid": "v#74u),?@k",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Также",
+                "Aussi"
+            ],
+            "guid": "xbZM;(o:aV",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Стакан воды",
+                "Un verre d'eau"
+            ],
+            "guid": "q6<>pOQ=)g",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Для вас есть свободный столик вон там",
+                "Vous avez une table libre, là-bas<br>"
+            ],
+            "guid": "By].hx`i!V",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Салат с запеченным козьим сыром",
+                "Une salade au chèvre chaud"
+            ],
+            "guid": "E0md1t4TzK",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Лосось на гриле с рисом",
+                "Un saumon grillé avec du riz"
+            ],
+            "guid": "q6=r&Ji3KP",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Омлет обычный",
+                "Une omelette nature"
+            ],
+            "guid": "rux=-~W1aF",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Сендвич с ветчиной и сыром</span></b>",
+                "<b><span style=\"font-weight: 400;\">Un croque-monsieur</span></b>"
+            ],
+            "guid": "Ge@0v0*?tn",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Завтрак",
+                "<b><span style=\"font-weight: 400;\">Le petit-déjeuner</span></b>"
+            ],
+            "guid": "yWozkx&5Cn",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Тост",
+                "<b><span style=\"font-weight: 400;\">Une tartine</span></b>"
+            ],
+            "guid": "c>6oA5aGlr",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Свежевыжатый апельсиновый сок",
+                "<b><span style=\"font-weight: 400;\">Une orange pressée</span></b>"
+            ],
+            "guid": "d{WVSI>R<Q",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Тарелка сырых овощей",
+                "<b><span style=\"font-weight: 400;\">Une assiette de crudités</span></b>"
+            ],
+            "guid": "OZ>N7F#6&H",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Приготовленные овощи",
+                "<b><span style=\"font-weight: 400;\">Des légumes cuits</span></b>"
+            ],
+            "guid": "dDms.D1tqx",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Депрессивная погода</span></b>",
+                "<b><span style=\"font-weight: 400;\">Un temps dépressif</span></b>"
+            ],
+            "guid": "/fU;5W5B:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Серо&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il fait gris</span></b>"
+            ],
+            "guid": "L[uHx]LYdD",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Какая погода сегодня в Порту?",
+                "<b><span style=\"font-weight: 400;\">Il fait quel temps à Porto aujourd'hui?/<br></span></b><b><span style=\"font-weight: 400;\">Quel temps fait-il à Porto aujourd’hui?</span></b>"
+            ],
+            "guid": "yz>o49O5DF",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Жарко (погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il fait chaud</span></b>"
+            ],
+            "guid": "gIVwqr)drs",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Холодно&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">il fait froid</span></b>"
+            ],
+            "guid": "ECl:@5:0|f",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Прохладно&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il fait frais</span></b>"
+            ],
+            "guid": "jCTXVJ/zVI",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Тепло&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il fait bon</span></b>"
+            ],
+            "guid": "Ep0e-H4*.G",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Плохо</span></b><b><span style=\"font-weight: 400;\">&nbsp;(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il fait mauvais</span></b>"
+            ],
+            "guid": "A)CIu[t1N.",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Солнечно&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il y a du soleil</span></b>"
+            ],
+            "guid": "C5~CqIk_r<",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ветренно&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">il y a du vent</span></b>"
+            ],
+            "guid": "P4ORJf?5#",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Облачно (погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">il y a des nuages</span></b>"
+            ],
+            "guid": "zSXdthmnMU",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Дождливо (погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">il y a la pluie</span></b>"
+            ],
+            "guid": "h5)mt0BbhW",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Снежно&nbsp;</span></b><b><span style=\"font-weight: 400;\">(погода)</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il y a de la neige</span></b>"
+            ],
+            "guid": "Q^izp&!(;m",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Сколько градусов?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il fait combien de degrés?</span></b>"
+            ],
+            "guid": "fz9akUM*&U",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "20 градусов/-20 градусов",
+                "<b><span style=\"font-weight: 400;\">Il fait 20 (vingt) degrés / il fait moins vingt (-20) degrés</span></b>"
+            ],
+            "guid": "ss|c?i)wHp",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У вас есть автомобиль? У меня нет автомобиля",
+                "<b><span style=\"font-weight: 400;\">Vous avez la voiture? Je n’ai pas la voiture</span></b>"
+            ],
+            "guid": "jga>sjwt|q",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У тебя есть ручка? У меня нет ручки",
+                "<b><span style=\"font-weight: 400;\">Tu as le stylo? Je n’ai pas le stylo</span></b>"
+            ],
+            "guid": "wI:YzPn$dY",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У них есть книги? У них нет книг",
+                "<b><span style=\"font-weight: 400;\">Ils ont les livres? Ils n’ont pas les livres</span></b>"
+            ],
+            "guid": "bg=]1MuJM",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У вас есть вопросы? У меня нет вопросов",
+                "<b><span style=\"font-weight: 400;\">Vous avez des questions? Je n’ai pas de questions</span></b>"
+            ],
+            "guid": "H<K~&Vwn1N",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">У него есть много друзей</span></b>",
+                "<b><span style=\"font-weight: 400;\">Il a beaucoup d’amis</span></b>"
+            ],
+            "guid": "vfVz_Aam.:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">У нее есть немного овощей</span></b>",
+                "<b><span style=\"font-weight: 400;\">Elle a un peu de légumes</span></b>"
+            ],
+            "guid": "A8)Di&IeU-",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Одну минутку</span></b>",
+                "<b><span style=\"font-weight: 400;\">Un instant</span></b>"
+            ],
+            "guid": "iN1Si)%y@@",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Не отключайтесь</span></b>",
+                "<b><span style=\"font-weight: 400;\">Ne quittez pas</span></b>"
+            ],
+            "guid": "B;1<_:09r9",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Я немного опаздываю</span></b>",
+                "<b><span style=\"font-weight: 400;\">Je suis un peu en retard</span></b>"
+            ],
+            "guid": "AVuNi;Fi<5",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Я сожалею</span></b>",
+                "<b><span style=\"font-weight: 400;\">Je suis désolé</span></b>"
+            ],
+            "guid": "7U8H[is%E",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Не страшно</span></b>",
+                "<b><span style=\"font-weight: 400;\">C'est ne pas grave</span></b>"
+            ],
+            "guid": "M:*LNF[:x@",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Я в офисе</span></b>",
+                "<b><span style=\"font-weight: 400;\">Je suis au bureau</span></b>"
+            ],
+            "guid": "o%Q{G[Nl[i",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Увидимся сегодня</span></b>",
+                "<b><span style=\"font-weight: 400;\">À tout à l’heure</span></b>"
+            ],
+            "guid": "q2?S/7nb=/",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ты доступен завтра?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Tu es là, demain?</span></b>"
+            ],
+            "guid": "Ja^Xdh#}Z)",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я в пути",
+                "Je suis en déplacement"
+            ],
+            "guid": "Q`Ldp8fvfT",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">После полудня</span></b>",
+                "<b><span style=\"font-weight: 400;\">Après-midi</span></b>"
+            ],
+            "guid": "x{j?sqIDXp",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ехать</span></b>",
+                "<b><span style=\"font-weight: 400;\">Aller</span></b>"
+            ],
+            "guid": "bTs%bt41^g",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Сменить</span></b>",
+                "<b><span style=\"font-weight: 400;\">Changer</span></b>"
+            ],
+            "guid": "q;z7-R%dc.",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Заранее</span></b>",
+                "<b><span style=\"font-weight: 400;\">Avance</span></b>"
+            ],
+            "guid": "mVSghws:{w",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ок, договорились насчет…</span></b>",
+                "<b><span style=\"font-weight: 400;\">D’accord pour…</span></b>"
+            ],
+            "guid": "E3+hwd4![N",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Пол здесь? (доступен)",
+                "<b><span style=\"font-weight: 400;\">Est-ce que Paul est là?&nbsp;</span></b>"
+            ],
+            "guid": "rYl}dV>d$G",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Здравствуйте, это Патриция!",
+                "<b><span style=\"font-weight: 400;\">Allô, c’est Patricia!</span></b>"
+            ],
+            "guid": "seCL8[$-pU",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У бы хотел встретиться с...",
+                "<b><span style=\"font-weight: 400;\">Je voudrais un rendez-vous avec…</span></b>"
+            ],
+            "guid": "pT!`rL.A+6",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Это срочно!</span></b>",
+                "<b><span style=\"font-weight: 400;\">C’est urgent!</span></b>"
+            ],
+            "guid": "x;TE7961JA",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Есть, записал!",
+                "<b><span style=\"font-weight: 400;\">C’est noté!</span></b>"
+            ],
+            "guid": "g/T3nC2UqG",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Вас это устраивает? - Да, мне идет.",
+                "Ça vous va? - Oui, ça me va"
+            ],
+            "guid": "M#KC6~Zc6B",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Они в отпуске",
+                "Ils sont en vacances"
+            ],
+            "guid": "tUun)-e(p&",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Какой сегодня день?",
+                "<b><span style=\"font-weight: 400;\">Quel jour sommes-nous, aujourd’hui?</span></b>"
+            ],
+            "guid": "vb6,$8L~{>",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Сегодня пятница",
+                "<b><span style=\"font-weight: 400;\">Nous sommes vendredi</span></b>"
+            ],
+            "guid": "b!6_*^,U-@",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Который час?",
+                "<b><span style=\"font-weight: 400;\">Quelle heure est-il?</span></b>"
+            ],
+            "guid": "iErM{x=C10",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Полдень",
+                "<b><span style=\"font-weight: 400;\">Il est midi</span></b>"
+            ],
+            "guid": "wj&t[~B_U5",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Следующий понедельник",
+                "Lundi prochain"
+            ],
+            "guid": "rT?I!;ZQO<",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Усталый",
+                "Fatigué"
+            ],
+            "guid": "Ee]DMyboe4",
+            "note_model_uuid": "240ebd14-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Чтобы поехать на вокзал",
+                "Pour aller à la gare"
+            ],
+            "guid": "Q:uoMzQVB[",
+            "note_model_uuid": "240ebd14-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Следующие (следующие элементы)",
+                "Suivants (les éléments suivants)"
+            ],
+            "guid": "F8U9C(lW(_",
+            "note_model_uuid": "240ebd14-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Затем/далее/потом",
+                "Puis"
+            ],
+            "guid": "oH(RQB#]Yo",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Завершите предложения",
+                "Complétez les phrases"
+            ],
+            "guid": "FJDD%$_Ttn",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Прослушайте диалоги еще раз",
+                "<b><span style=\"font-weight: 400;\">Réécoutez les dialogues</span></b>"
+            ],
+            "guid": "Q];RJJ)>z_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Попросите и используйте \"Я бы&nbsp;хотел(-а) ...\"",
+                "<b><span style=\"font-weight: 400;\">Demandez et utilisez \"je voudrais ...\"</span></b>"
+            ],
+            "guid": "u(=:xu~X9S",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел ложку",
+                "<b><span style=\"font-weight: 400;\">Je voudrais une cuiller</span></b>"
+            ],
+            "guid": "g,3MZV]mu_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел мороженое",
+                "<b><span style=\"font-weight: 400;\">Je voudrais un glace</span></b>"
+            ],
+            "guid": "s1SO02_:o|",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел стакан пива",
+                "<b><span style=\"font-weight: 400;\">Je voudrais un demi</span></b>"
+            ],
+            "guid": "nLK5oLfR{q",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел бутылку вина",
+                "<b><span style=\"font-weight: 400;\">Je voudrais une bouteille de vin</span></b>"
+            ],
+            "guid": "Qr2x#X|P@t",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел нож",
+                "<b><span style=\"font-weight: 400;\">Je voudrais un couteau</span></b>"
+            ],
+            "guid": "l!uqKE*xTs",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел сендвич с ветчиной и сыром",
+                "<b><span style=\"font-weight: 400;\">Je voudrais un croque-monsieur</span></b>"
+            ],
+            "guid": "JO_:9vgSk1",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел вилку",
+                "<b><span style=\"font-weight: 400;\">Je voudrais une fourchette</span></b>"
+            ],
+            "guid": "MMj*/m)tYx",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел тарелку",
+                "<b><span style=\"font-weight: 400;\">Je voudrais une assiette</span></b>"
+            ],
+            "guid": "m,]7V!!Vs_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел стол",
+                "<b><span style=\"font-weight: 400;\">Je voudrais une table</span></b>"
+            ],
+            "guid": "NVp}i&@$n&",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У вас есть блюдо дня?",
+                "Vous avez un plat du jour?"
+            ],
+            "guid": "d}HK]GX]6W",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я бы хотел бокал вина",
+                "Je voudrais un verre de vin"
+            ],
+            "guid": "qTxrPboC:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Графин яблочного сока",
+                "Une carafe de jus de pomme"
+            ],
+            "guid": "HQv77l$-Q<",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Некоторые/несколько",
+                "<b><span style=\"font-weight: 400;\">Quelque</span></b>"
+            ],
+            "guid": "zlsY!]Sgl>",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Понедельник",
+                "Lundi"
+            ],
+            "guid": "p,`PmG2$1P",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Вторник",
+                "Mardi"
+            ],
+            "guid": "k@+6R>@<}_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Среда",
+                "Mercredi"
+            ],
+            "guid": "vRlfUf|~Gg",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Четверг",
+                "Jeudi"
+            ],
+            "guid": "gZIpAJZQTN",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Пятница",
+                "Vendredi"
+            ],
+            "guid": "lpKUQK.2Ef",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Суббота",
+                "Samedi"
+            ],
+            "guid": "mj-x!P:Yg*",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Воскресенье",
+                "Dimanche"
+            ],
+            "guid": "r>3]7.?h4H",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "À vouz!",
+                "(Обращаются) к вам!"
+            ],
+            "guid": "Aq)kDhU=8_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ответьте на вопросы в свободной форме",
+                "<b><span style=\"font-weight: 400;\">Répondez librement aux questions</span></b>"
+            ],
+            "guid": "jXG-3=Sri{",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Правда или ложь",
+                "<b><span style=\"font-weight: 400;\">Vrai ou faux</span></b>"
+            ],
+            "guid": "cv?+qzNjj1",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Прочитайте электронные сообщения",
+                "<b><span style=\"font-weight: 400;\">Lisez les courriers électroniques</span></b>"
+            ],
+            "guid": "d<d:]MVA}Y",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "На основе... (упражнений)",
+                "<b><span style=\"font-weight: 400;\">Sur le modèle de... (l’exercice)</span></b>"
+            ],
+            "guid": "JfZr#D8d^4",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Напишите 2 электронных письма",
+                "<b><span style=\"font-weight: 400;\">Écrivez deux courriers électroniques</span></b>"
+            ],
+            "guid": "N|A6BlGrT9",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Следующий",
+                "<b><span style=\"font-weight: 400;\">Suivant</span></b>"
+            ],
+            "guid": "JqxE%`YQ:B",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Повседневная жизнь (ежедневно)",
+                "<b><span style=\"font-weight: 400;\">La vie quotidienne (</span></b><b><span style=\"font-weight: 400;\">quotidienne)</span></b>"
+            ],
+            "guid": "Np2^Od3r},",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я готовлю конференцию для 2 сотен человек",
+                "<b><span style=\"font-weight: 400;\">Je prépare une conférence pour deux cents personnes</span></b>"
+            ],
+            "guid": "PdX25p+ov$",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Вы немного стрессуете (напряжены), не так ли?",
+                "<b><span style=\"font-weight: 400;\">Vous êtes un peu stressée, non?</span></b>"
+            ],
+            "guid": "Cy8nyG4QDM",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я отвественен за ...",
+                "Je suis responsable de ..."
+            ],
+            "guid": "Gh9e3Snb]T",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я приглашаю гостей",
+                "J'invite les participants"
+            ],
+            "guid": "ktg%a~RTuR",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я организую путешествия",
+                "J'organise les voyages"
+            ],
+            "guid": "z<gMV6|#),",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я проверяю всё",
+                "Je vérifie tout"
+            ],
+            "guid": "HKDws!<bt+",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я спокоен (спокойна)",
+                "Je suis calm (calme)"
+            ],
+            "guid": "OZH13yy(aN",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Иностранные языки",
+                "Les langues étrangères"
+            ],
+            "guid": "b(jC=ci|~v",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Проект",
+                "Un projet"
+            ],
+            "guid": "sH#M=uGonk",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
