@@ -1411,6 +1411,426 @@
             "guid": "sH#M=uGonk",
             "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Затем/далее/потом",
+                "Puis"
+            ],
+            "guid": "oH(RQB#]Yo",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Четверг",
+                "Jeudi"
+            ],
+            "guid": "gZIpAJZQTN",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Пятница",
+                "Vendredi"
+            ],
+            "guid": "lpKUQK.2Ef",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Суббота",
+                "Samedi"
+            ],
+            "guid": "mj-x!P:Yg*",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Воскресенье",
+                "Dimanche"
+            ],
+            "guid": "r>3]7.?h4H",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "À vouz!",
+                "(Обращаются) к вам!"
+            ],
+            "guid": "Aq)kDhU=8_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ответьте на вопросы в свободной форме",
+                "<b><span style=\"font-weight: 400;\">Répondez librement aux questions</span></b>"
+            ],
+            "guid": "jXG-3=Sri{",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Правда или ложь",
+                "<b><span style=\"font-weight: 400;\">Vrai ou faux</span></b>"
+            ],
+            "guid": "cv?+qzNjj1",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У меня есть возможность в среду в 14:30",
+                "<b><span style=\"font-weight: 400;\">J’ai une possibilité mercredi à 14h 30</span></b>"
+            ],
+            "guid": "bY2D{?y-zi",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я резервирую отели",
+                "<b><span style=\"font-weight: 400;\">Je réserve les hôtels</span></b>"
+            ],
+            "guid": "EPOGRs=-;A",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я прибываю",
+                "<b><span style=\"font-weight: 400;\">J’arrive</span></b>"
+            ],
+            "guid": "msPtgw|e2j",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она работает",
+                "<b><span style=\"font-weight: 400;\">Elle travaille</span></b>"
+            ],
+            "guid": "m&QRZdE9s=",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ты говоришь на иностранных языках?",
+                "<b><span style=\"font-weight: 400;\">Tu parles les langues étrangères?</span></b>"
+            ],
+            "guid": "I>Ma|>v;sl",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Говорит ли Анатолий по-английски?",
+                "Est-ce qu’Anatole parle anglais?"
+            ],
+            "guid": "HYT*Heao}x",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Мой сын, моя дочь</span></b>",
+                "<b><span style=\"font-weight: 400;\">Mon fils, ma fille</span></b>"
+            ],
+            "guid": "ppV3KE5`+v",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Почему - потому что",
+                "Pourquoi - p<b><span style=\"font-weight: 400;\">arce que</span></b>"
+            ],
+            "guid": "kP;*qT};Mk",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Молодая англичанка",
+                "<b><span style=\"font-weight: 400;\">Une jeune Anglaise</span></b>"
+            ],
+            "guid": "q#ST^#0j#,",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она ищет людей, говорящих на английском и французском языках",
+                "Elle cherche des personnes qui parlent anglais et français"
+            ],
+            "guid": "i35/d]F-e3",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Хорошая идея",
+                "<div>C’est une bonne idée</div>"
+            ],
+            "guid": "ftmOhHA>_:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она смотрит американское телевидение",
+                "Elle regarde la télévision américaine"
+            ],
+            "guid": "I%eo;%2FM7",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она слушает BBC",
+                "<b><span style=\"font-weight: 400;\">Elle écoute la BBC</span></b>"
+            ],
+            "guid": "s;I9MBJ3MT",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "А также (дополнительно)",
+                "<b><span style=\"font-weight: 400;\">En plus</span></b>"
+            ],
+            "guid": "r>&*!QxF29",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она очень милая",
+                "<b><span style=\"font-weight: 400;\">Elle est très sympa</span></b>"
+            ],
+            "guid": "u&<HZHFB)s",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она очень открытая",
+                "Elle est très ouverte"
+            ],
+            "guid": "j#w2UVa*yY",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я полный ноль",
+                "<b><span style=\"font-weight: 400;\">Je suis nulle</span></b>"
+            ],
+            "guid": "l])Rjvjjqc",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Это ужасно",
+                "<b><span style=\"font-weight: 400;\">C’est terrible&nbsp;</span></b>"
+            ],
+            "guid": "L>?`)jPNL/",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я люблю много языков",
+                "<div>J'aime beaucoup les langues</div>"
+            ],
+            "guid": "y|+?ZUjjjS",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Это фантастика",
+                "<b><span style=\"font-weight: 400;\">C’est fantastique</span></b>"
+            ],
+            "guid": "y3|pkdSVZY",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Новый язык",
+                "<b><span style=\"font-weight: 400;\">Une nouvelle langue</span></b>"
+            ],
+            "guid": "t,G[=5E2!k",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ты продолжаешь свой курс немецкого языка?",
+                "<b><span style=\"font-weight: 400;\">Tu continues tes cours d’allemand?</span></b>"
+            ],
+            "guid": "k`5JW:Jins",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я обожаю Италию",
+                "<b><span style=\"font-weight: 400;\">J’adore l’Italie</span></b>"
+            ],
+            "guid": "pu*D/~6o`[",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Твой отец ценит это?",
+                "<b><span style=\"font-weight: 400;\">Ton père apprécie?</span></b>"
+            ],
+            "guid": "g;D3n!R43j",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Весь день",
+                "<b><span style=\"font-weight: 400;\">Toute la journée</span></b>"
+            ],
+            "guid": "oT=SdH5iZ}",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Это совершенно пассивно",
+                "<b><span style=\"font-weight: 400;\">C’est complètement passif</span></b>"
+            ],
+            "guid": "iN[F3$7H?1",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Он живет один в своем доме",
+                "<b><span style=\"font-weight: 400;\">Il habite seul dans sa maison</span></b>"
+            ],
+            "guid": "l`@h<z,LG4",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Всегда",
+                "<b><span style=\"font-weight: 400;\">Toujours</span></b>"
+            ],
+            "guid": "x5{wzZ]56`",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мы обедаем вместе по вторникам и пятницам",
+                "<b><span style=\"font-weight: 400;\">Nous déjeunons ensemble le mardi et le vendredi</span></b>"
+            ],
+            "guid": "cl<1>G<$.B",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мой брат и мой отец ужинают вместе по понедельникам",
+                "<b><span style=\"font-weight: 400;\">Mon frère et mon père dînent ensemble le lundi</span></b>"
+            ],
+            "guid": "vmM;X?k<|q",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Моя сестра живет на той же улице",
+                "<b><span style=\"font-weight: 400;\">Ma soeur habite dans la même rue</span></b>"
+            ],
+            "guid": "rNgxO+xhqc",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Как мило!",
+                "<b><span style=\"font-weight: 400;\">C’est gentil!</span></b>"
+            ],
+            "guid": "sM8k2Xb+|9",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ценит ли он это?",
+                "<b><span style=\"font-weight: 400;\">Est-ce qu’il apprécie?</span></b>"
+            ],
+            "guid": "bu7|GFLq,u",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Он не общителен",
+                "<b><div><span style=\"font-weight: 400;\">Il n’est pas communicatif</span></div></b>"
+            ],
+            "guid": "JM.Kuw*W8]",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
         }
     ],
     "reviewLimit": null,
