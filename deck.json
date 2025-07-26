@@ -1831,6 +1831,756 @@
             "guid": "JM.Kuw*W8]",
             "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Говорите ли вы по-испански? <br>- Нет, я не говорю по-испански",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous parlez espagnol? <br>- Non, je ne parle pas espagnol</span></b>"
+            ],
+            "guid": "HU,VyN*_6F",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Играете ли вы в теннис? <br>- Да, я играю в теннис",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous jouez au tennis? <br>- Oui, je joue au tennis</span></b>"
+            ],
+            "guid": "EhgO@TgQQ",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Любите ли вы иностранные языки? <br>- Да, я люблю иностранные языки",
+                "-&nbsp;<b><span style=\"font-weight: 400;\">Est-ce que vous aimez les langues étrangères? <br>- Oui, j’aime les langues étrangères</span></b>"
+            ],
+            "guid": "PqsK9p%EB<",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Ужинаете ли вы в ресторане сегодня вечером?<br>- Нет, я не ужинаю сегодня вечером в ресторане",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous dînez au restaurant, ce soir? <br>- Non, je ne dîne pas au restaurant, ce soir</span></b>"
+            ],
+            "guid": "viH>7,ZDA.",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Едите ли вы фрукты?<br>- Да, я ем фрукты",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous mangez des fruits? <br>- Oui, je mange des fruits</span></b>"
+            ],
+            "guid": "B7b$hV%ZOM",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Слушаете ли вы радио?<br>- Нет, я не слушаю радио",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous écoutez la radio? <br>- Non, je n’écoute pas la radio</span></b>"
+            ],
+            "guid": "ET`^hFj~q_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Организуете ли вы встречи?<br>- Нет, я не организую встречи",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous organisez des réunions? <br>- Non, je n’organise pas de réunions</span></b>"
+            ],
+            "guid": "QJi3g@MuN}",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Приглашаете ли вы друзей на ужин?<br>- Да, я приглашаю друзей на ужин",
+                "-&nbsp;<b><span style=\"font-weight: 400;\">Est-ce que vous invitez des amis à dîner? <br>- Oui, j’invite des amis à dîner</span></b>"
+            ],
+            "guid": "o>oyzX.bNc",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Живете ли вы во Франции?<br>- Нет, я не живу во Франции",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous habitez en France? <br>- Non, je n’habite pas en France</span></b>"
+            ],
+            "guid": "oz3~|n`aA0",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "- Много ли вы учите французский язык?<br>- Я учу французский язык много",
+                "<b><span style=\"font-weight: 400;\">- Est-ce que vous étudiez beaucoup le français? <br>- Oui, j’étudie beaucoup le français</span></b>"
+            ],
+            "guid": "yO!(`QX2.5",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мы ужинаем вместе по вторникам и по пятницам",
+                "Nous déjeunons ensemble le mardi et le vendredi"
+            ],
+            "guid": "AIk_iq#cQ.",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мой брат и мой отце ужинают вместе по понедельникам вечером",
+                "Mon frère et mon père dînent ensemble le lundi soir."
+            ],
+            "guid": "PV.Vhs3FTo",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Она играет в теннис со своим другом",
+                "<b><span style=\"font-weight: 400;\">Elle joue au tennis avec son ami</span></b>"
+            ],
+            "guid": "FpzEA9u*e",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Куда вы собираетесь на длинные выходные 1 мая?",
+                "<b><span style=\"font-weight: 400;\">Où est-ce que vous allez pour le long week-end du 1er mai?</span></b>"
+            ],
+            "guid": "vzIr4y/(*q",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Вы берете отпуск?",
+                "<b><span style=\"font-weight: 400;\">Vous prenez des vacances?</span></b>"
+            ],
+            "guid": "EyrPp.c^cF",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "делать «мост» (брать выходной между праздником и выходными)",
+                "faire le pont"
+            ],
+            "guid": "CoLM#elK`Y",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "брать отпуск",
+                "prendre des vacances"
+            ],
+            "guid": "Fx?]>j2{6m",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Куда вы едете?",
+                "Où est-ce que vous allez?"
+            ],
+            "guid": "hc`I~A0yW`",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Мы едем в Испанию и Португалию</div> <div></div>",
+                "Nous partons en Espagne et au Portugal"
+            ],
+            "guid": "k@UMNG:p%,",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мы летим на самолёте",
+                "Nous prenons l’avion"
+            ],
+            "guid": "F&&>=w]zu0",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мы остаёмся там на два дня",
+                "Nous restons deux jours là-bas"
+            ],
+            "guid": "g`P,k?AGua",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Затем мы едем в Лиссабон</div> <div></div>",
+                "Puis nous partons à Lisbonne"
+            ],
+            "guid": "e)%H[T*@:*",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Сколько времени это занимает?</div> <div></div>",
+                "Combien de temps est-ce qu’on met?"
+            ],
+            "guid": "mq1rai7JZn",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Это занимает примерно час",
+                "On met une heure environ"
+            ],
+            "guid": "dLA@9*vHew",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Это быстро",
+                "C’est rapide"
+            ],
+            "guid": ".vK4Z_o~:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Вы в отеле останавливаетесь?",
+                "Vous allez à l’hôtel?"
+            ],
+            "guid": "J}>R$l#^;?",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мы едем к друзьям",
+                "Nous allons chez des amis"
+            ],
+            "guid": "MK1((Ah&Q`",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Это ваш первый раз, когда вы едете…?</div> <div></div>",
+                "C’est la première fois que vous allez… ?"
+            ],
+            "guid": "G?9J>nJ^gj",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Это третий раз",
+                "C’est la troisième fois"
+            ],
+            "guid": "HQC3&oUH!O",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "собирать вещи",
+                "faire les bagages"
+            ],
+            "guid": "nQO4j|K3_3",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "дорожная сумка",
+                "le sac de voyage"
+            ],
+            "guid": "mcPx}`,`vD",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "чёрный чемодан",
+                "la valise noire"
+            ],
+            "guid": "h7$^TjRILY",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ты прав",
+                "Tu as raison"
+            ],
+            "guid": "r:|1KrKe;t",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "фотоаппарат",
+                "l’appareil photo"
+            ],
+            "guid": "gVAb7KtjZO",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "мобильный телефон",
+                "le portable"
+            ],
+            "guid": "rkt|tgw#LM",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>путеводитель по Греции</div> <div></div>",
+                "le guide de Grèce"
+            ],
+            "guid": "D2i23J2(<o",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "карта Афин",
+                "le plan d’Athènes"
+            ],
+            "guid": "ChS1kkp_n>",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "карта",
+                "une carte"
+            ],
+            "guid": "Ia-P_}MDVR",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "приложения на телефоне",
+                "les applications sur les portables"
+            ],
+            "guid": "O1kuB*bN0F",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GPS-навигатор",
+                "le GPS"
+            ],
+            "guid": "o+w^7W7UQX",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Как мы добираемся до аэропорта?</div> <div></div>",
+                "Comment est-ce qu’on va à l’aéroport ?"
+            ],
+            "guid": "D2`Agff(3:",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "На автобусе или на такси",
+                "En bus ou en taxi"
+            ],
+            "guid": "w>Px38[MU6",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Когда мы уезжаем?",
+                "Quand est-ce qu’on part ?"
+            ],
+            "guid": "M->vXFiOqT",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Самолёт вылетает в 7:10</div> <div></div>",
+                "L’avion part à 7 h 10"
+            ],
+            "guid": "se$v*we6>Y",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Мы уезжаем в 5 утра",
+                "Nous partons à 5 heures du matin"
+            ],
+            "guid": "QQzM({a4q?",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Здравствуйте, я хотел бы забронировать номер на двоих",
+                "Bonjour, monsieur, je voudrais réserver une chambre pour deux personnes"
+            ],
+            "guid": "D=~;>s8g|n",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "На две ночи, с 7 по 9 июля",
+                "Pour deux nuits, du 7 au 9 juillet"
+            ],
+            "guid": "Fy.70oV+6S",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У нас есть свободный номер с ванной комнатой",
+                "Nous avons une chambre libre, avec salle de bains."
+            ],
+            "guid": "b*O{IuTAto",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Он выходит на улицу, а не в сад",
+                "Elle donne sur la rue, pas sur le jardin"
+            ],
+            "guid": "CnQ=7YA?vu",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Многие отели в вашем городе заняты!",
+                "Beaucoup d’hôtels sont complets dans votre ville !"
+            ],
+            "guid": "t?9`Z:AaU8",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Да, это правда, много людей",
+                "<div>Oui, c’est vrai, il y a beaucoup de monde.</div> <div></div>"
+            ],
+            "guid": "lGf/*Hd+@`",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Понимаете, сейчас высокий сезон",
+                "Vous voyez, c’est la haute saison…"
+            ],
+            "guid": "7yO[/&!;P",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я понимаю",
+                "Je comprends"
+            ],
+            "guid": "z~GR2iAAh1",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Сколько стоит номер?",
+                "<div>Quel est le prix de la chambre ?</div> <div></div>"
+            ],
+            "guid": "OnIEERk7F+",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "90 евро, включая завтрак",
+                "<div>Elle est à 90 euros, monsieur, petit-déjeuner compris.</div> <div></div>"
+            ],
+            "guid": "yZ<3pA=OTe",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "У вас есть номер банковской карты?",
+                "Vous avez un numéro de carte bleue ?"
+            ],
+            "guid": "Q=,sn8HREz",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "В подтверждение нашего телефонного разговора",
+                "<div>Suite à notre conversation téléphonique</div> <div></div>"
+            ],
+            "guid": "g][xb1*Er<",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я подтверждаю бронирование",
+                "Je confirme la réservation"
+            ],
+            "guid": "NIGX-qjw%(",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Номера на двух человек",
+                "D’une chambre pour deux personnes"
+            ],
+            "guid": "xYOh+N5t`_",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">С уважением</span></b>",
+                "Meilleures salutations"
+            ],
+            "guid": "zJPerB^vq2",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Дорогая Зохра, дорогой Симон",
+                "Chère Zohra, cher Simon"
+            ],
+            "guid": "BCpN6%EU}o",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Представьте себе полностью синее море",
+                "Imaginez la mer toute bleue"
+            ],
+            "guid": "i$G0^e-PtL",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Великолепное солнце",
+                "Un magnifique soleil"
+            ],
+            "guid": "cfK,Wfsj;n",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Несколько красных, белых и синих лодок",
+                "<div>Quelques bateaux rouges, blancs et bleus</div> <div></div>"
+            ],
+            "guid": "IlslLiW^aG",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Белые домики и красивая терраса",
+                "<div>Des maisons blanches et une jolie terrasse</div> <div></div>"
+            ],
+            "guid": "w8HEY-/}a(",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Какой вид!",
+                "<div>Quelle vue !</div> <div></div>"
+            ],
+            "guid": "f@l3q@W21U",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Здесь также есть маленькие вкусные ресторанчики",
+                "Il y a aussi des petits restaurants délicieux"
+            ],
+            "guid": "wjS>Bs;@S<",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "И повсюду цветы!",
+                "Et des fleurs partout !"
+            ],
+            "guid": "s#}qwnc*hS",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я делаю \"мост\" на 1 мая",
+                "Je fais le pont du 1er mai"
+            ],
+            "guid": "QLj%wAdOpX",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Я на маленьком греческом острове",
+                "Je suis sur une petite île grecque"
+            ],
+            "guid": "uZg_8BS3>s",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Настоящий рай!",
+                "Un vrai paradis !"
+            ],
+            "guid": "Ie/K.#+FV|",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Тысяча поцелуев и до скорого!",
+                "Mille bisous et à bientôt !"
+            ],
+            "guid": "i4ST%_$23A",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Полезные (ключевые) выражения",
+                "Expressions-clés"
+            ],
+            "guid": "cUTa;9K^q[",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Да, я понимаю / вижу",
+                "Oui, je vois !"
+            ],
+            "guid": "PrZni,uQxk",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ты прав! /&nbsp;Вы правы!",
+                "Tu as raison ! / Vous avez raison !<div></div>"
+            ],
+            "guid": "Hz***O+cW&",
+            "note_model_uuid": "240e8e02-6301-11f0-8a80-974b7122e85c",
+            "tags": []
         }
     ],
     "reviewLimit": null,
